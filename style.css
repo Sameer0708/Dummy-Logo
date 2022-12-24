@@ -63,7 +63,7 @@
    }
    .cover
    {
-    background-image: url("cover.jpg");
+    background-image: url("Images/cover.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
